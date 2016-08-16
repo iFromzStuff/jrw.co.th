@@ -1,0 +1,224 @@
+﻿#SubMenu {
+	margin-bottom: 25px;
+}
+#SubMenu .Topic {
+	font-size: 19px;
+	font-weight: normal;
+	color: #618fd5;
+	padding-bottom: 7px;
+}
+#SubMenu .Item {
+	font-family: Calibri, "Trebuchet MS", Arial, Tahoma;
+	font-size: 16px;
+	color: #3a5a8e;
+	border-top: 1px solid #fff;
+	border-left: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+}
+#SubMenu .Item td {
+	padding: 0px 10px;
+	text-align: center;
+	border-right: 1px solid #fff;
+}
+#SubMenu .Item .Active{
+	background: #fff;
+	font-size: 16px;
+	color: #3a5a8e;
+}
+#SubMenu .Item a:link {
+	color: #3a5a8e;
+}
+#SubMenu .Item a:visited {
+	color: #3a5a8e;
+}
+#SubMenu .Item a:hover {
+	color: #3985cf;
+	text-decoration: none;
+}
+/*-------------------------------------------------------------------------------*/
+#MainImage-1 {
+	width: 300px;
+	vertical-align: top;
+	padding-right: 20px;
+}
+#MainImage-2 {
+	width: 600px;
+	vertical-align: top;
+	padding-left: 20px;
+
+}
+#MainImage-3 {
+	width: 300px;
+	vertical-align: top;
+	padding-left: 20px;
+}
+.Topic {
+	color: #191c22;
+	font-size: 25px;
+}
+.Topic a:link{
+	color: #191c22;
+	font-size: 25px;
+	text-decoration: none;
+}
+.Topic a:visited{
+	color: #191c22;
+	font-size: 25px;
+	text-decoration: none;
+}
+.Topic a:hover{
+	color: #191c22;
+	font-size: 25px;
+	text-decoration: underline;
+}
+#PageDesc {
+	margin-top: 10px;
+	overflow: auto;
+	position: relative;
+}
+.LogoFooter {
+	text-align: center;
+	background: #d9e9ff;
+}
+#PageDesc .Title {
+	color: #113388;
+	font-size: 14px;
+	font-weight: bold;
+}
+#PageDesc .sTitle {
+	font-size: 13px;
+	color: #191c22;
+}
+#PageDesc .Detail {
+	font-size: 13px;
+	color: #414141;
+}
+#PageDesc .Detail a:link {
+	color: #414141;
+	padding: 0px 5px;
+	display: block;
+}
+#PageDesc .Detail a:visited {
+	color: #414141;
+	padding: 0px 5px;
+}
+#PageDesc .Detail a:hover {
+	color: #f76303;
+	text-decoration: none;
+	background: #e2efff;
+	padding: 0px 5px;
+}
+#PageDesc .GoogleMaps a:hover {
+	background: transparent;
+}
+#PageDesc .Year {
+	padding: 3px 10px;
+	cursor:pointer;
+	color: #3a5a8e;
+}
+#PageDesc .Year a:link {
+	color: #3a5a8e;
+}
+#PageDesc .Year a:visited {
+	color: #3a5a8e;
+}
+#PageDesc .Year a:hover {
+	color: #358adb;
+	text-decoration: none;
+}
+#PageDesc .YearActive {
+	padding: 0px 10px;
+	background-color:white;
+	cursor:pointer;
+	color: #f76303;
+}
+#PageDesc .YearActive a:link {
+	color: #f76303;
+}
+#PageDesc .YearActive a:visited {
+	color: #f76303;
+}
+#PageDesc .YearActive a:hover {
+	color: #f76303;
+	text-decoration: none;
+}
+
+#PageDesc .YearDetail {
+	border: 1px solid #fff;
+	height: 311px;
+	padding: 10px;
+	vertical-align: top;
+	font-size: 13px;
+	overflow: auto;	
+}
+#PageDesc .YearDetail td {
+	font-size: 12px;
+	background: url('../images/Bull1.gif') no-repeat 1px 5px;
+	padding-left: 18px;
+	padding-bottom: 5px;
+}
+#PageDesc .List {
+	font-size: 13px;
+	
+}
+#PageDesc .List td{
+	font-size: 13px;
+}
+#PageDesc .IMG {
+	padding-right: 10px;
+}
+#PageDesc .Name {
+	font-weight: bold;
+	font-size: 13px;
+	color: #113388;
+}
+#PageDesc .Logo {
+	text-align: center;
+	width: 150px;
+	padding: 5px;
+	vertical-align: top;
+}
+#PageDesc .Logo img {
+	margin-bottom: 3px;
+}
+
+#PageDesc .Item {
+	padding: 12px 0px 0px 0px;
+}
+#PageDesc .Item td {
+	font-size: 12px;
+	background: url('../images/Bull1.gif') no-repeat 1px 5px;
+	padding-left: 18px;
+	padding-bottom: 5px;
+}
+#PageDesc .Item a:link {
+	color: #414141;
+}
+#PageDesc .Item a:visited {
+	color: #414141;
+}
+#PageDesc .Item a:hover {
+	color: #f76303;
+	text-decoration: none;
+}
+#TBContent .Header {
+	background: #012c96;
+	color: #fff;
+	font-weight: bold;
+	padding: 5px 7px;
+	border-right: 2px solid #c0d4f1;
+	font-size: 12px;
+}
+#TBContent .Detail {
+	background: #dae9fe;
+	padding: 2px 7px;
+	border-right: 2px solid #c0d4f1;
+	border-top: 2px solid #c0d4f1;
+	vertical-align: top;
+}
+#TBContent .BlueBG {
+	background: #cfdff6;
+}
+#TBContent .WhiteBlueBG {
+	background: #e4f0ff;
+}

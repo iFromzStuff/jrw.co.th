@@ -1,0 +1,232 @@
+﻿SPAN {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+H5 {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+H3 {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+H1 {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+IMG {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+UL {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+OL {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+LI {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+P {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+FORM {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+DIV {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+BODY {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+HTML {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+body {
+	font-family: Tahoma, Arial, Verdana;
+	margin: 10px 0px;
+	color: #414141;
+	background: #2e3592 url('../images/BG.gif') repeat-x left top;
+}
+a:link {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+/*-------------------------------------------------------------------------------*/
+#Main {
+	width: 1003px;
+	margin: 0px auto;
+	background: #fff;
+}
+#Header {
+	width: 100%;
+}
+#Header .Language {
+	font-size: 11px;
+	text-align: right;
+	padding: 0px 22px;
+}
+#Header .Language a:link {
+	color: #5b5b5b;
+}
+#Header .Language a:visited {
+	color: #5b5b5b;
+}
+#Header .Language a:hover {
+	color: #3985cf;
+}
+#Header .Logo {
+	padding: 0px 22px 20px 22px;
+}
+#MainMenu {
+	
+}
+#MainMenu td {
+	height: 30px;
+}
+#MainMenu .L1 {
+	background: #002e78 url('../images/L1BG.jpg') repeat-x;
+	padding-left: 10px;
+}
+#MainMenu .L1 td {
+	padding: 0px 10px;
+	color: #fff;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: Calibri;
+	font-size: 18px;
+}
+#MainMenu .L1 a:link {
+	color: #fff;
+}
+#MainMenu .L1 a:visited {
+	color: #fff;
+}
+#MainMenu .L1 a:hover {
+	color: #74b2ed;
+	text-decoration: none;
+}
+#MainMenu .Arrow {
+	background: #002e78 url('../images/Arrow.gif') no-repeat center bottom;
+	padding-left: 10px;
+}
+#MainMenu .L2 {
+	background: #fff;
+	padding-left: 10px;
+
+}
+#MainMenu .L2 td {
+	padding: 0px 10px;
+	color: #113388;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: Calibri;
+	font-size: 14px;
+}
+#MainMenu .L2 a:link {
+	color: #113388;
+}
+#MainMenu .L2 a:visited {
+	color: #113388;
+}
+#MainMenu .L2 a:hover {
+	color: #113388;
+	text-decoration: none;
+}
+#MainMenu .L3 {
+	background: #c0d4f1;
+	padding-left: 10px;
+}
+
+/*-------------------------------------------------------------------------------*/
+#Content {
+	width: 1003px;
+	padding: 0px 22px 30px 22px;
+	height: 100%;
+}
+.ContentBG {
+	vertical-align: top;
+	background: #c0d4f1;
+}
+
+/*-------------------------------------------------------------------------------*/
+#Footer {
+	width: 959px;
+	margin: 10px 22px;
+	font-size: 11px;
+	color: #939598;
+}
+/*-------------------------------------------------------------------------------*/
+.Title {
+	font-family: Calibri, "Trebuchet MS", Arial, Tahoma;
+}
+.MainMenu {
+	font-family: Calibri, "Trebuchet MS", Arial, Tahoma;
+}
+.Language {
+	font-family: Calibri, "Trebuchet MS", Arial, Tahoma;
+}
+.More {
+	font-family: Calibri, "Trebuchet MS", Arial, Tahoma;
+}
+.Topic {
+	font-family: Calibri, "Trebuchet MS", Arial, Tahoma;
+}
+.Detail {
+	font-family: Tahoma, Arial, Verdana;
+}
+.More {
+	font-weight: bold;
+	font-size: 12px;
+	color: #000;
+	text-align: right;
+}
+.More a:link {
+	color: #000;
+}
+.More a:visited {
+	color: #000;
+}
+.More a:hover {
+	color: #000;
+}
+.WhiteBG {
+	background: #fff;
+}
+.BlueBG {
+	background: #dae9fe;
+}
+.WhiteBlueBG {
+	background: #e4f0ff;
+}
+.mouseover{
+		cursor: pointer;}
